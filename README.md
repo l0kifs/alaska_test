@@ -1,11 +1,11 @@
-#Description
+Description
 Basic test project based on the REST API of https://hub.docker.com/r/azshoo/alaska
 
 In case of increasing number of tests they should be organized by features and prioritized.
 
 Security and performance test not included.
 
-#Checklist
+Checklist
 Basic check list for the API.
 
 POST /bear - create
